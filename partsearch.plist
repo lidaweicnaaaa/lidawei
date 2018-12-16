@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.hongyun.partphone</string>
+                <string>com.aruistar.cmcapp</string>
                 <key>bundle-version</key>
-                <string>3.7</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Industrial sewing machine spare part search system</string>
+                <string>cmcapp</string>
             </dict>
         </dict>
     </array>
