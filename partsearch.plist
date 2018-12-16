@@ -19,13 +19,7 @@
                     <key>url</key>
                     <string>http://www.hy-soft.cn/soft/search.png</string>
                 </dict>
-                <dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>http://www.hy-soft.cn/soft/search.png</string>
-				</dict>
-             
+                             
             </array>
             <key>metadata</key>
             <dict>
@@ -36,7 +30,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Partsearch</string>
+                <string>Industrial sewing machine spare part search</string>
             </dict>
         </dict>
     </array>
