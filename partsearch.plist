@@ -13,17 +13,24 @@
                     <key>url</key>
                      <string>http://www.hy-soft.cn/soft/Partsearch.ipa</string>
                 </dict>
+                 <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>https://www.hy-soft.cn/soft/search.png</string>
+                </dict>
+             
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
                 <string>com.aruistar.cmcapp</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>3.7</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>cmcapp</string>
+                <string>Industrial sewing machine spare part search system</string>
             </dict>
         </dict>
     </array>
